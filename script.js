@@ -8,7 +8,7 @@ function btnEncriptar() {
     mensaje.style.backgroundImage = "none"
 }
 
-
+//función encriptar
 
 function encriptar(stringEncriptada){
 
